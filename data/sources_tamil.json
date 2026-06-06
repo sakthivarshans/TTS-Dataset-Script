@@ -1,0 +1,122 @@
+[
+  {
+    "url": "https://www.youtube.com/watch?v=9JlP9Ex6gDU",
+    "speaker_id": "ta_spk_001",
+    "gender": "male",
+    "topic": "news",
+    "expected_style": "formal",
+    "notes": "Sun Seithigal morning news 30-04-2024. Standard Tamil anchor, single speaker, formal delivery, no music. Verified working."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=nYRVxTxQCD0",
+    "speaker_id": "ta_spk_002",
+    "gender": "male",
+    "topic": "news",
+    "expected_style": "formal",
+    "notes": "Sun Seithigal morning news 18-03-2024. Sun News anchor, crisp Standard Tamil, formal bulletin style."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=QbzirCRkGc4",
+    "speaker_id": "ta_spk_003",
+    "gender": "female",
+    "topic": "news",
+    "expected_style": "formal",
+    "notes": "Thanthi TV 9AM Headlines 01-10-2024. Female anchor, clear Standard Tamil pronunciation, formal news delivery."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=7MH7uosIFHU",
+    "speaker_id": "ta_spk_004",
+    "gender": "female",
+    "topic": "news",
+    "expected_style": "neutral",
+    "notes": "Thanthi TV 6AM Headlines 27-10-2024. Early morning bulletin, neutral tone, single anchor, clean audio."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=3WlkIEdk6_k",
+    "speaker_id": "ta_spk_005",
+    "gender": "male",
+    "topic": "motivation",
+    "expected_style": "emphatic",
+    "notes": "Kenneth Jeyseelan -- best motivational speech Tamil. Puducherry digital youth summit. Single speaker, emphatic Tamil, no music."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=OszZU6dVQD8",
+    "speaker_id": "ta_spk_006",
+    "gender": "male",
+    "topic": "motivation",
+    "expected_style": "motivational",
+    "notes": "Epic Life Tamil -- How to change your life. Solo Tamil motivational talk. Clear audio, no background music."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=6-SQQ2vyE6w",
+    "speaker_id": "ta_spk_007",
+    "gender": "male",
+    "topic": "motivation",
+    "expected_style": "instructional",
+    "notes": "Madhu Bhaskaran -- Hardwork leads to success Tamil. HRD trainer, calm instructional delivery, clear Tamil."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=OV4FzcdUlIQ",
+    "speaker_id": "ta_spk_008",
+    "gender": "male",
+    "topic": "literature",
+    "expected_style": "narrative",
+    "notes": "Thirukkural 1 to 10 explanation with stories in Tamil. Single narrator, classical Tamil, slow and clear. No music."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=5Y04MKETIqU",
+    "speaker_id": "ta_spk_009",
+    "gender": "male",
+    "topic": "literature",
+    "expected_style": "emphatic",
+    "notes": "Thirukkural Tamil speech for competitions. Single speaker, emphatic recitation style, clear Standard Tamil."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=8txiacZyhb8",
+    "speaker_id": "ta_spk_010",
+    "gender": "male",
+    "topic": "literature",
+    "expected_style": "formal",
+    "notes": "Dr Sankara Saravanan -- Thirukkural speech at Chennai Literary Festival 2024. Scholar, formal Tamil, single speaker."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=X-zRCFL884s",
+    "speaker_id": "ta_spk_011",
+    "gender": "female",
+    "topic": "storytelling",
+    "expected_style": "storytelling",
+    "notes": "Panchatantra Stories Tamil -- Koo Koo TV. Female narrator, expressive storytelling Tamil, child-friendly clear pronunciation."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=pIlmC7no3DY",
+    "speaker_id": "ta_spk_012",
+    "gender": "female",
+    "topic": "storytelling",
+    "expected_style": "happy",
+    "notes": "Panchatantra Stories in Tamil Vol 1. Warm female narrator, clear expressive Tamil, moral stories narration."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=ZolZB02pS2Q",
+    "speaker_id": "ta_spk_013",
+    "gender": "male",
+    "topic": "education",
+    "expected_style": "instructional",
+    "notes": "Tamil study motivation speech 2024. Student-focused Tamil, clear instructional tone, single speaker, no music."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Pt3yV4giISg",
+    "speaker_id": "ta_spk_014",
+    "gender": "male",
+    "topic": "spiritual",
+    "expected_style": "calm",
+    "notes": "Vairamuthu speech about Thirukkural -- Tamil. Poet and lyricist Vairamuthu speaking in calm literary Tamil. Clear audio."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=RfIF27scXeI",
+    "speaker_id": "ta_spk_015",
+    "gender": "male",
+    "topic": "motivation",
+    "expected_style": "conversational",
+    "notes": "New Year Tamil motivation speech 2024. Natural conversational Tamil, single male speaker, direct to camera style."
+  }
+]

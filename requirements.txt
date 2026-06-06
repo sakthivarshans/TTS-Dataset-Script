@@ -1,0 +1,8 @@
+yt-dlp
+soundfile
+numpy
+scipy
+requests
+tqdm
+datasets
+huggingface_hub

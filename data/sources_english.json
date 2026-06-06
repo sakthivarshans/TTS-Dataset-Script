@@ -1,0 +1,122 @@
+[
+  {
+    "url": "https://www.youtube.com/watch?v=Iw363WNPReQ",
+    "speaker_id": "en_spk_001",
+    "gender": "male",
+    "topic": "spiritual",
+    "expected_style": "calm",
+    "notes": "Sadhguru -- Developing Inclusive Consciousness. Crystal clear studio audio, single speaker, calm deliberate Indian English. No music."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=giVLLiCk-wk",
+    "speaker_id": "en_spk_002",
+    "gender": "male",
+    "topic": "spiritual",
+    "expected_style": "calm",
+    "notes": "Sadhguru at IIM Bangalore -- Youth and Truth full talk. Sadhguru speaks solo in English for long stretches. Clear audio."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=xgRqBknG2hI",
+    "speaker_id": "en_spk_003",
+    "gender": "female",
+    "topic": "motivation",
+    "expected_style": "motivational",
+    "notes": "IAS Sonal Goel -- Josh Talks English. Solo monologue, clear Indian English, motivational tone. No background music."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=7m_XpKA3GCg",
+    "speaker_id": "en_spk_004",
+    "gender": "female",
+    "topic": "motivation",
+    "expected_style": "emphatic",
+    "notes": "Sahla Parveen -- Josh Talks English. Inspiring personal story, emphatic delivery. Single speaker, clean audio."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=1VjV4J70e_E",
+    "speaker_id": "en_spk_005",
+    "gender": "male",
+    "topic": "motivation",
+    "expected_style": "excited",
+    "notes": "Adil Hussain -- Josh Talks English. High energy, single speaker, no music. Good to great speech."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=C4crdqWk3bM",
+    "speaker_id": "en_spk_006",
+    "gender": "male",
+    "topic": "technology",
+    "expected_style": "instructional",
+    "notes": "Umesh Sachdev -- TEDxChennai. Your Voice is Your Power. Indian English, single speaker on stage, clean TEDx audio setup."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=JY7pYSCX6Dc",
+    "speaker_id": "en_spk_007",
+    "gender": "male",
+    "topic": "education",
+    "expected_style": "conversational",
+    "notes": "Debarghya Das -- TEDxBangalore. Hacking into the Indian education system. Natural conversational Indian English."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=XqqIzCPUcgs",
+    "speaker_id": "en_spk_008",
+    "gender": "female",
+    "topic": "storytelling",
+    "expected_style": "storytelling",
+    "notes": "Esha Manwani -- TEDxHLCC. Broken English -- Indian kids ordeal. Personal story, emotional, expressive delivery."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=rfscVS0vtbw",
+    "speaker_id": "en_spk_009",
+    "gender": "male",
+    "topic": "education",
+    "expected_style": "instructional",
+    "notes": "freeCodeCamp Python tutorial. Clear step-by-step delivery, no music, long video."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=HXV3zeQKqGY",
+    "speaker_id": "en_spk_010",
+    "gender": "male",
+    "topic": "education",
+    "expected_style": "instructional",
+    "notes": "SQL Tutorial full course. Indian English educator. Clear instructional speech, no background music."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=PGUdWfB8nLg",
+    "speaker_id": "en_spk_011",
+    "gender": "male",
+    "topic": "Motivational",
+    "expected_style": "energetic",
+    "notes": "Barack Obama's Inspirational Speech with Subtitles"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=yG2qZdXJaO8",
+    "speaker_id": "en_spk_012",
+    "gender": "male",
+    "topic": "spiritual",
+    "expected_style": "conversational",
+    "notes": "Sadhguru at IIM Bangalore 2024. Latest talk, excellent studio-quality audio, solo English delivery."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=KXB94FpDc7s",
+    "speaker_id": "en_spk_013",
+    "gender": "male",
+    "topic": "spiritual",
+    "expected_style": "emphatic",
+    "notes": "Sadhguru Interview at Google full talk. Emphatic moments, strong delivery, clear English, single speaker."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=GhSynB4qIhc",
+    "speaker_id": "en_spk_014",
+    "gender": "female",
+    "topic": "storytelling",
+    "expected_style": "narrative",
+    "notes": "Gautami Tadimalla -- TEDxChennai. Actor and cancer survivor. Emotional personal narrative, Indian English, clear audio."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Na9g6raGwio",
+    "speaker_id": "en_spk_015",
+    "gender": "female",
+    "topic": "motivation",
+    "expected_style": "happy",
+    "notes": "Ishita Katyal -- TEDxGateway. Be whoever you want at any age. Warm happy delivery, clear English, young Indian speaker."
+  }
+]

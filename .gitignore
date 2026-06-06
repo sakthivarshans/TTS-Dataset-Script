@@ -1,0 +1,72 @@
+# ── Python ────────────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# ── Virtual environment ───────────────────────────────────────────────────────
+venv/
+.venv/
+env/
+ENV/
+
+# ── Data directory (large binary files, transcripts, etc. — not for git) ──────
+data/*
+# Keep source JSON files (small, useful to version)
+!data/sources_english.json
+!data/sources_tamil.json
+
+# ── Partial / temp download files ────────────────────────────────────────────
+*.part
+*_raw.wav
+*_raw.webm
+*_raw.mp4
+*_raw.m4a
+*_raw.ogg
+*_raw.mp3
+*_yt_cookies.txt
+
+# ── Cookies (sensitive — never commit) ───────────────────────────────────────
+cookies.txt
+*.cookies
+
+# ── Logs ─────────────────────────────────────────────────────────────────────
+logs/
+*.log
+
+# ── Quality reports ──────────────────────────────────────────────────────────
+quality_reports/
+
+# ── HuggingFace / model cache ────────────────────────────────────────────────
+.cache/
+huggingface/
+*.bin
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+
+# ── Jupyter ───────────────────────────────────────────────────────────────────
+.ipynb_checkpoints/
+*.ipynb
+
+# ── IDE / Editor ─────────────────────────────────────────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# ── Temp / misc ───────────────────────────────────────────────────────────────
+*.tmp
+*.bak
+*.orig
+{scripts,data/
