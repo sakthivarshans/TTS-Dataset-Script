@@ -16,7 +16,7 @@ HF_TOKEN         = os.getenv("HF_TOKEN",        "xxxxxxxxxxxxxxxxxxxx")
 # ─────────────────────────────────────────────
 # HUGGINGFACE SETTINGS
 # ─────────────────────────────────────────────
-HF_REPO_ID       = "CHANGE TO UR USERNAME/indian-tts-dataset"   # e.g. john/indian-tts-dataset
+HF_REPO_ID       = "CHANGE-TO-UR-USERNAME/indian-tts-dataset"   # e.g. john/indian-tts-dataset
 HF_PRIVATE       = False   # set True during dev, False for final submission
 
 # ─────────────────────────────────────────────
