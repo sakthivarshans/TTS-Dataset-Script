@@ -40,7 +40,6 @@ def load_status() -> dict:
             return json.load(f)
     return {}
 
-
 def save_status(status: dict):
     with open(STATUS_FILE, "w") as f:
         json.dump(status, f, indent=2)
