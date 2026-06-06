@@ -44,7 +44,6 @@ def save_status(status: dict):
     with open(STATUS_FILE, "w") as f:
         json.dump(status, f, indent=2)
 
-
 def run_step(step_num: int, script: str, extra_args: list) -> bool:
     script_path = os.path.join(SCRIPTS_DIR, script)
     log_path    = os.path.join(LOGS_DIR, f"step{step_num:02d}_{script.replace('.py','')}.log")
