@@ -13,6 +13,7 @@ BASE_DIR        = os.path.dirname(os.path.abspath(__file__))
 TRANSCRIPTS_DIR = os.path.join(BASE_DIR, "data", "transcripts")
 DATA_DIR        = os.path.join(BASE_DIR, "data")
 
+
 # Style -> emotion mapping
 STYLE_TO_EMOTION = {
     "formal"        : "neutral",
@@ -54,7 +55,6 @@ def load_sources():
             }
     return speaker_meta
 
-
 def tag_all():
     speaker_meta = load_sources()
     print(f"Loaded metadata for {len(speaker_meta)} speakers")
@@ -89,7 +89,6 @@ def tag_all():
                 "crosscheck_corrected": False,
             }
             tagged.append(record)
-
         # Save tagged manifest
         out_path = os.path.join(TRANSCRIPTS_DIR, f"tagged_{lang}.json")
         with open(out_path, "w", encoding="utf-8") as f:
@@ -97,7 +96,6 @@ def tag_all():
 
         print(f"  Saved {len(tagged)} tagged segments -> {out_path}")
         all_tagged.extend(tagged)
-
     # Save combined
     combined = os.path.join(TRANSCRIPTS_DIR, "tagged_all.json")
     with open(combined, "w", encoding="utf-8") as f:
