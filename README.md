@@ -1,11 +1,11 @@
-# 🎙 Indian TTS Dataset Pipeline
+## TTS Dataset Pipeline
 
 **60-minute TTS training dataset** — Indian English (30 min) + Tamil (30 min)  
 Built with Sarvam AI APIs for ASR + LLM tagging.
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 tts_dataset/
@@ -31,7 +31,7 @@ tts_dataset/
 
 ---
 
-## ⚡ Quick Start (Full Pipeline)
+##  Quick Start (Full Pipeline)
 
 ### 1. Install dependencies
 
@@ -69,7 +69,7 @@ This runs all 9 steps automatically and uploads to HuggingFace.
 
 ---
 
-## 🔧 Run Individual Steps
+##  Run Individual Steps
 
 ```bash
 # Step 1: Save source list
@@ -110,7 +110,7 @@ python scripts/09_push_hf.py                       # actual upload
 
 ---
 
-## 🎯 Manual Review Controls (Step 7)
+##  Manual Review Controls (Step 7)
 
 This is the most important step. **Listen to your data.**
 
@@ -125,7 +125,7 @@ This is the most important step. **Listen to your data.**
 
 ---
 
-## 📊 Dataset Schema
+##  Dataset Schema
 
 Each row in the final HuggingFace dataset contains:
 
@@ -151,7 +151,7 @@ Each row in the final HuggingFace dataset contains:
 
 ---
 
-## 🔍 Quality Pipeline
+##  Quality Pipeline
 
 ```
 YouTube video
@@ -184,7 +184,7 @@ HuggingFace dataset push
 
 ---
 
-## 🔑 Getting API Keys
+##  Getting API Keys
 
 **Sarvam AI:**
 1. Go to https://dashboard.sarvam.ai
@@ -198,7 +198,7 @@ HuggingFace dataset push
 
 ---
 
-## ⚠️ Common Issues
+##  Common Issues
 
 | Problem | Fix |
 |---------|-----|
@@ -210,7 +210,7 @@ HuggingFace dataset push
 
 ---
 
-## 📈 Targeting 60 Minutes
+## Targeting 60 Minutes
 
 Each source video should ideally be **10–30 minutes long**.  
 With 15 sources per language × ~4 min usable per source = ~60 min total.
