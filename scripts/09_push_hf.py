@@ -226,7 +226,6 @@ def dry_run_check(rows: list):
     log.info("")
     log.info("DRY RUN passed. Run without --dry-run to upload.")
 
-
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--dry-run", action="store_true")
@@ -258,7 +257,6 @@ def main():
 
     log.info(f"Pushing to HuggingFace: {HF_REPO_ID}")
     log.info("This will upload all audio files - may take 10-30 minutes...")
-
     ds_dict.push_to_hub(
         HF_REPO_ID,
         private=HF_PRIVATE,
@@ -280,7 +278,6 @@ def main():
     log.info("DATASET PUBLISHED")
     log.info(f"URL: https://huggingface.co/datasets/{HF_REPO_ID}")
     log.info("=" * 55)
-
 
 if __name__ == "__main__":
     main()
