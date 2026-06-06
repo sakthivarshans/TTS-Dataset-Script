@@ -7,7 +7,6 @@ without needing any API call.
 Place in D:\TTS\ and run:
     python fix_tags.py
 """
-
 import json, os
 
 BASE_DIR        = os.path.dirname(os.path.abspath(__file__))
@@ -59,9 +58,7 @@ def load_sources():
 def tag_all():
     speaker_meta = load_sources()
     print(f"Loaded metadata for {len(speaker_meta)} speakers")
-
     all_tagged = []
-
     for lang in ["english", "tamil"]:
         in_path = os.path.join(TRANSCRIPTS_DIR, f"transcribed_{lang}.json")
         if not os.path.exists(in_path):
@@ -114,7 +111,6 @@ def tag_all():
     print(f"Saved to       : {combined}")
     print(f"\nNext step: python scripts/06_quality_filter.py")
     print(f"{'='*50}")
-
 
 if __name__ == "__main__":
     tag_all()
