@@ -34,8 +34,6 @@ PIPELINE = [
 ]
 
 STATUS_FILE = os.path.join(LOGS_DIR, "pipeline_status.json")
-
-
 def load_status() -> dict:
     if os.path.exists(STATUS_FILE):
         with open(STATUS_FILE) as f:
