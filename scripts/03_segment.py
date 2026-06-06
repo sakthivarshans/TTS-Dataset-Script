@@ -27,6 +27,7 @@ from config import (RAW_AUDIO_DIR, SEGMENTS_DIR, LOGS_DIR,
                     SAMPLE_RATE, MIN_SEGMENT_DURATION, MAX_SEGMENT_DURATION,
                     SNR_THRESHOLD_DB)
 
+
 try:
     import soundfile as sf
     from scipy.signal import butter, sosfilt
