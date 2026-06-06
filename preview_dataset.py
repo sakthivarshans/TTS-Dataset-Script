@@ -30,7 +30,6 @@ def play_audio(path):
     except Exception as e:
         print(f"  Cannot play audio: {e}")
 
-
 def show_sample(seg: dict, idx: int, play: bool):
     print(f"\n{'─'*60}")
     print(f"  Sample #{idx+1}")
@@ -149,7 +148,5 @@ def main():
     print(f"  Ready to upload!")
     print(f"  Run: python scripts/09_push_hf.py")
     print(f"{'='*60}\n")
-
-
 if __name__ == "__main__":
     main()
